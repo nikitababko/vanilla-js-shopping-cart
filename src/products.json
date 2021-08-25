@@ -6,7 +6,7 @@
         "title": "queen panel bed",
         "price": 10.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-1.jpeg" } }
+          "fields": { "file": { "url": "../images/product-1.jpeg" } }
         }
       }
     },
@@ -16,7 +16,7 @@
         "title": "king panel bed",
         "price": 12.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-2.jpeg" } }
+          "fields": { "file": { "url": "../images/product-2.jpeg" } }
         }
       }
     },
@@ -26,7 +26,7 @@
         "title": "single panel bed",
         "price": 12.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-3.jpeg" } }
+          "fields": { "file": { "url": "../images/product-3.jpeg" } }
         }
       }
     },
@@ -36,7 +36,7 @@
         "title": "twin panel bed",
         "price": 22.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-4.jpeg" } }
+          "fields": { "file": { "url": "../images/product-4.jpeg" } }
         }
       }
     },
@@ -46,7 +46,7 @@
         "title": "fridge",
         "price": 88.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-5.jpeg" } }
+          "fields": { "file": { "url": "../images/product-5.jpeg" } }
         }
       }
     },
@@ -56,7 +56,7 @@
         "title": "dresser",
         "price": 32.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-6.jpeg" } }
+          "fields": { "file": { "url": "../images/product-6.jpeg" } }
         }
       }
     },
@@ -66,7 +66,7 @@
         "title": "couch",
         "price": 45.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-7.jpeg" } }
+          "fields": { "file": { "url": "../images/product-7.jpeg" } }
         }
       }
     },
@@ -76,7 +76,7 @@
         "title": "table",
         "price": 33.99,
         "image": {
-          "fields": { "file": { "url": "./images/product-8.jpeg" } }
+          "fields": { "file": { "url": "../images/product-8.jpeg" } }
         }
       }
     }
